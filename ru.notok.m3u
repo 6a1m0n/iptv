@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
+http://91.234.255.18:8000/play/a003/index.m3u8
+#EXTINF:-1,02 Россия 1
+http://91.234.255.18:8000/play/a00o/index.m3u8
+#EXTINF:-1,03 МАТЧ!
+http://91.234.255.18:8000/play/a04b/index.m3u8
+#EXTINF:-1,04 НТВ
+http://91.234.255.18:8000/play/a049/index.m3u8
+#EXTINF:-1,05 ПЯТЫЙ КАНАЛ
+http://91.234.255.18:8000/play/a04f/index.m3u8
+#EXTINF:-1,06 РОССИЯ-К
+http://91.234.255.18:8000/play/a007/index.m3u8
+#EXTINF:-1,07 Россия 24
+http://91.234.255.18:8000/play/a00p/index.m3u8
+#EXTINF:-1,08 КАРУСЕЛЬ
+http://91.234.255.18:8000/play/a008/index.m3u8
+#EXTINF:-1,09 ОТР
+http://91.234.255.18:8000/play/a04o/index.m3u8
+#EXTINF:-1,10 ТВ Центр
+http://91.234.255.18:8000/play/a00a/index.m3u8
+#EXTINF:-1,11 РЕН ТВ
+http://91.234.255.18:8000/play/a00b/index.m3u8
+#EXTINF:-1,12 Спас
+http://91.234.255.18:8000/play/a00c/index.m3u8
+#EXTINF:-1,13 СТС
+http://91.234.255.18:8000/play/a00d/index.m3u8
+#EXTINF:-1,14 Домашний
+http://91.234.255.18:8000/play/a00e/index.m3u8
+#EXTINF:-1,15 ТВ3
+http://91.234.255.18:8000/play/a00f/index.m3u8
+#EXTINF:-1,16 Пятница
+http://91.234.255.18:8000/play/a00g/index.m3u8
+#EXTINF:-1,17 Звезда
+http://91.234.255.18:8000/play/a00h/index.m3u8
+#EXTINF:-1,18 МИР
+http://91.234.255.18:8000/play/a00i/index.m3u8
+#EXTINF:-1,19 ТНТ
+http://91.234.255.18:8000/play/a04y/index.m3u8
+#EXTINF:-1,20 МУЗ
+http://91.234.255.18:8000/play/a04s/index.m3u8
+#EXTINF:-1,21 2X2
+http://91.234.255.18:8000/play/a05n/index.m3u8
+#EXTINF:-1,22 Детский
+http://91.234.255.18:8000/play/a00u/index.m3u8
+#EXTINF:-1,23 Мульт
+http://91.234.255.18:8000/play/a022/index.m3u8
+#EXTINF:-1,24 Канал Disney
+http://91.234.255.18:8000/play/a04r/index.m3u8
+#EXTINF:-1,25 Дом Кино
+http://91.234.255.18:8000/play/a05q/index.m3u8
+#EXTINF:-1,26 ЕвроКино
+http://91.234.255.18:8000/play/a05k/index.m3u8
+#EXTINF:-1,27 Любимое кино
+http://91.234.255.18:8000/play/a035/index.m3u8
+#EXTINF:-1,28 Русский Иллюзион
+http://91.234.255.18:8000/play/a036/index.m3u8
+#EXTINF:-1,29 КИНО ТВ
+http://91.234.255.18:8000/play/a00w/index.m3u8
+#EXTINF:-1,30 Комедия
+http://91.234.255.18:8000/play/a00x/index.m3u8
+#EXTINF:-1,31 Русский бестселлер
+http://91.234.255.18:8000/play/a026/index.m3u8
+#EXTINF:-1,32 CTC Love
+http://91.234.255.18:8000/play/a00s/index.m3u8
+#EXTINF:-1,33 Че
+http://91.234.255.18:8000/play/a00t/index.m3u8
+#EXTINF:-1,35 Ю
+http://91.234.255.18:8000/play/a04z/index.m3u8
+#EXTINF:-1,36 Время: далекое и близкое
+http://91.234.255.18:8000/play/a02y/index.m3u8
+#EXTINF:-1,37 БОБЁР
+http://91.234.255.18:8000/play/a02x/index.m3u8
+#EXTINF:-1,38 Усадьба-ТВ
+http://91.234.255.18:8000/play/a05f/index.m3u8
+#EXTINF:-1,39 Доктор
+http://91.234.255.18:8000/play/a04p/index.m3u8
+#EXTINF:-1,40 ЖИВИ!
+http://91.234.255.18:8000/play/a024/index.m3u8
+#EXTINF:-1,41 BRIDGE TV Русский Хит
+http://91.234.255.18:8000/play/a05m/index.m3u8
+#EXTINF:-1,42 Ля-минор ТВ
+http://91.234.255.18:8000/play/a05s/index.m3u8
+#EXTINF:-1,43 Музыка Первого
+http://91.234.255.18:8000/play/a031/index.m3u8
+#EXTINF:-1,44 THT MUSIC
+http://91.234.255.18:8000/play/a052/index.m3u8
+#EXTINF:-1,45 World Fashion
+http://91.234.255.18:8000/play/a051/index.m3u8
+#EXTINF:-1,46 Москва Доверие
+http://91.234.255.18:8000/play/a023/index.m3u8
+#EXTINF:-1,47 Телеканал 360
+http://91.234.255.18:8000/play/a04v/index.m3u8
+#EXTINF:-1,48 ДОМАШНИЕ ЖИВОТНЫЕ
+http://91.234.255.18:8000/play/a05e/index.m3u8
+#EXTINF:-1,50 Discovery Channel
+http://91.234.255.18:8000/play/a02u/index.m3u8
+#EXTINF:-1,51 Охота и рыбалка
+http://91.234.255.18:8000/play/a05j/index.m3u8
+#EXTINF:-1,52 Дикий
+http://91.234.255.18:8000/play/a05t/index.m3u8
+#EXTINF:-1,54 МАТЧ ПРЕМЬЕР
+http://91.234.255.18:8000/play/a04t/index.m3u8
+#EXTINF:-1,55 МАТЧ! БОЕЦ
+http://91.234.255.18:8000/play/a05p/index.m3u8
+#EXTINF:-1,56 Телеканал КХЛ
+http://91.234.255.18:8000/play/a04x/index.m3u8
+#EXTINF:-1,57 РБК-ТВ
+http://91.234.255.18:8000/play/a04w/index.m3u8
+#EXTINF:-1,59 Мультимания
+http://91.234.255.18:8000/play/a02a/index.m3u8
+#EXTINF:-1,60 Русский роман
+http://91.234.255.18:8000/play/a028/index.m3u8
+#EXTINF:-1,TB 1000 Русское кино
+http://91.234.255.18:8000/play/a05d/index.m3u8
+#EXTINF:-1,TV 1000
+http://91.234.255.18:8000/play/a05b/index.m3u8
+#EXTINF:-1,TV 1000 Action
+http://91.234.255.18:8000/play/a05c/index.m3u8
+#EXTINF:-1,Суббота!
+http://91.234.255.18:8000/play/a050/index.m3u8
