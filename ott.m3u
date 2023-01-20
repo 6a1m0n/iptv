@@ -1,0 +1,833 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0003.png" group-title="Эфирные",Первый
+http://ott.dugatv.me/ch0003/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0001.png" group-title="Эфирные",Первый HD
+http://ott.dugatv.me/ch0001/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00024.png" group-title="Эфирные",Пятница HD
+http://ott.dugatv.me/ch660/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00024.png" group-title="Эфирные",Пятница!
+http://ott.dugatv.me/ch00024/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00012.png" group-title="Эфирные",Пятый канал
+http://ott.dugatv.me/ch00012/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00020.png" group-title="Эфирные",Рен ТВ
+http://ott.dugatv.me/ch00020/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00018.png" group-title="Эфирные",Рен ТВ HD
+http://ott.dugatv.me/ch00018/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch294.png" group-title="Эфирные",Россия 1
+http://ott.dugatv.me/ch294/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0004.png" group-title="Эфирные",Россия 1 HD
+http://ott.dugatv.me/ch0004/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00013.png" group-title="Эфирные",Россия 24
+http://ott.dugatv.me/ch00013/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00014.png" group-title="Эфирные",Россия К
+http://ott.dugatv.me/ch00014/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00021.png" group-title="Эфирные",СТС
+http://ott.dugatv.me/ch00021/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00032.png" group-title="Эфирные",СТС HD
+http://ott.dugatv.me/ch00032/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00017.png" group-title="Эфирные",ТВ Центр
+http://ott.dugatv.me/ch00017/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch661.png" group-title="Эфирные",Тв3 HD
+http://ott.dugatv.me/ch661/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00028.png" group-title="Эфирные",ТНТ
+http://ott.dugatv.me/ch00028/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00026.png" group-title="Эфирные",ТНТ HD
+http://ott.dugatv.me/ch00026/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00030.png" group-title="Эфирные",ЧЕ
+http://ott.dugatv.me/ch00030/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00031.png" group-title="Эфирные",Ю
+http://ott.dugatv.me/ch00031/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00058.png" group-title="Развлекательные",2x2
+http://ott.dugatv.me/ch00058/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00102.png" group-title="Развлекательные",360
+http://ott.dugatv.me/ch00102/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0193.png" group-title="Эфирные",8 канал
+http://ott.dugatv.me/ch0193/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch662.png" group-title="Эфирные",Дождь
+http://ott.dugatv.me/ch662/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch664.png" group-title="Эфирные",Дождь HD
+http://ott.dugatv.me/ch664/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00022.png" group-title="Эфирные",Домашний HD
+http://ott.dugatv.me/ch00022/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00023.png" group-title="Эфирные",Звезда
+http://ott.dugatv.me/ch00023/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00015.png" group-title="Эфирные",Карусель
+http://ott.dugatv.me/ch00015/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00025.png" group-title="Эфирные",Мир
+http://ott.dugatv.me/ch00025/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00029.png" group-title="Эфирные",МУЗ ТВ
+http://ott.dugatv.me/ch00029/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00011.png" group-title="Эфирные",НТВ
+http://ott.dugatv.me/ch00011/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0009.png" group-title="Эфирные",НТВ HD
+http://ott.dugatv.me/ch0009/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chnew13.png" group-title="Развлекательные",Gags Network HD
+http://ott.dugatv.me/chnew13/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00055.png" group-title="Развлекательные",MTV HD
+http://ott.dugatv.me/ch00055/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00054.png" group-title="Развлекательные",Paramount Comedy
+http://ott.dugatv.me/ch00054/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00052.png" group-title="Развлекательные",Paramount Comedy HD
+http://ott.dugatv.me/ch00052/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00063.png" group-title="Развлекательные",TLC
+http://ott.dugatv.me/ch00063/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch651.png" group-title="Развлекательные",TLC HD
+http://ott.dugatv.me/ch651/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00070.png" group-title="Развлекательные",World Fashion Channel
+http://ott.dugatv.me/ch00070/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00105.png" group-title="Развлекательные",АНЕКДОТ ТВ
+http://ott.dugatv.me/ch00105/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00104.png" group-title="Развлекательные",Бобер
+http://ott.dugatv.me/ch00104/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00106.png" group-title="Развлекательные",ВОСТОК ТВ
+http://ott.dugatv.me/ch00106/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00067.png" group-title="Развлекательные",Жара HD
+http://ott.dugatv.me/ch00067/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00065.png" group-title="Развлекательные",Живи! HD
+http://ott.dugatv.me/ch00065/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chnew12.png" group-title="Развлекательные",Зал суда HD
+http://ott.dugatv.me/chnew12/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00051.png" group-title="Развлекательные",КВН ТВ
+http://ott.dugatv.me/ch00051/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00111.png" group-title="Развлекательные",Ключ TV
+http://ott.dugatv.me/ch00111/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00060.png" group-title="Развлекательные",Кухня ТВ
+http://ott.dugatv.me/ch00060/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00064.png" group-title="Развлекательные",Ностальгия
+http://ott.dugatv.me/ch00064/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00152.png" group-title="Развлекательные",Первый Вегетарианский HD
+http://ott.dugatv.me/ch00152/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00066.png" group-title="Развлекательные",Сарафан
+http://ott.dugatv.me/ch00066/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0261.png" group-title="Развлекательные",Супер
+http://ott.dugatv.me/ch0261/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00059.png" group-title="Развлекательные",Телекафе
+http://ott.dugatv.me/ch00059/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00050.png" group-title="Развлекательные",ТНТ4
+http://ott.dugatv.me/ch00050/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch663.png" group-title="Развлекательные",ТНТ4 HD
+http://ott.dugatv.me/ch663/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00110.png" group-title="Развлекательные",Точка отрыва
+http://ott.dugatv.me/ch00110/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00117.png" group-title="Познавательные",Animal Planet
+http://ott.dugatv.me/ch00117/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00115.png" group-title="Познавательные",Animal Planet HD
+http://ott.dugatv.me/ch00115/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch449.png" group-title="Познавательные",Da Vinci Learning
+http://ott.dugatv.me/ch449/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00120.png" group-title="Познавательные",Discovery Channel
+http://ott.dugatv.me/ch00120/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00118.png" group-title="Познавательные",Discovery Channel HD
+http://ott.dugatv.me/ch00118/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00123.png" group-title="Познавательные",Discovery Science
+http://ott.dugatv.me/ch00123/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00121.png" group-title="Познавательные",Discovery Science HD
+http://ott.dugatv.me/ch00121/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch564.png" group-title="Познавательные",DTX HD
+http://ott.dugatv.me/ch564/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch561.png" group-title="Познавательные",Galaxy TV HD
+http://ott.dugatv.me/ch561/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch565.png" group-title="Познавательные",H2 HD
+http://ott.dugatv.me/ch565/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch562.png" group-title="Познавательные",History
+http://ott.dugatv.me/ch562/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch563.png" group-title="Познавательные",History HD
+http://ott.dugatv.me/ch563/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch223.png" group-title="Познавательные",ID Xtra
+http://ott.dugatv.me/ch223/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch650.png" group-title="Познавательные",Love Nature 4K
+http://ott.dugatv.me/ch650/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00126.png" group-title="Познавательные",Nat Geo Wild
+http://ott.dugatv.me/ch00126/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00124.png" group-title="Познавательные",Nat Geo Wild HD
+http://ott.dugatv.me/ch00124/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00114.png" group-title="Познавательные",National Geographic
+http://ott.dugatv.me/ch00114/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00112.png" group-title="Познавательные",National Geographic HD
+http://ott.dugatv.me/ch00112/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00158.png" group-title="Познавательные",RTG
+http://ott.dugatv.me/ch00158/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00130.png" group-title="Познавательные",Travel Adventure
+http://ott.dugatv.me/ch00130/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00128.png" group-title="Познавательные",Travel Adventure HD
+http://ott.dugatv.me/ch00128/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00150.png" group-title="Познавательные",Viasat Explore
+http://ott.dugatv.me/ch00150/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00148.png" group-title="Познавательные",Viasat Explore HD
+http://ott.dugatv.me/ch00148/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00133.png" group-title="Познавательные",Viasat History
+http://ott.dugatv.me/ch00133/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00134.png" group-title="Познавательные",Viasat History HD
+http://ott.dugatv.me/ch00134/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chnew11.png" group-title="Познавательные",Дикая рыбалка HD
+http://ott.dugatv.me/chnew11/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch268.png" group-title="Познавательные",Дикий
+http://ott.dugatv.me/ch268/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0095.png" group-title="Познавательные",Еда Премиум
+http://ott.dugatv.me/ch0095/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00151.png" group-title="Познавательные",Живая планета
+http://ott.dugatv.me/ch00151/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00141.png" group-title="Познавательные",Загородная жизнь
+http://ott.dugatv.me/ch00141/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00139.png" group-title="Познавательные",Загородная жизнь HD
+http://ott.dugatv.me/ch00139/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch272.png" group-title="Познавательные",Здоровое_ТВ
+http://ott.dugatv.me/ch272/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00147.png" group-title="Познавательные",История
+http://ott.dugatv.me/ch00147/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00142.png" group-title="Познавательные",Мама
+http://ott.dugatv.me/ch00142/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00131.png" group-title="Познавательные",Наука 2.0
+http://ott.dugatv.me/ch00131/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chnew14.png" group-title="Познавательные",Наша Сибирь 4K
+http://ott.dugatv.me/chnew14/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00155.png" group-title="Познавательные",Оружие
+http://ott.dugatv.me/ch00155/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch288.png" group-title="Познавательные",Охота и рыбалка
+http://ott.dugatv.me/ch288/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00136.png" group-title="Познавательные",Охотник и рыболов HD
+http://ott.dugatv.me/ch00136/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00161.png" group-title="Познавательные",Поехали!
+http://ott.dugatv.me/ch00161/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00159.png" group-title="Познавательные",Поехали! HD
+http://ott.dugatv.me/ch00159/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0288.png" group-title="Фильмовые",A1
+http://ott.dugatv.me/ch0288/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0286.png" group-title="Фильмовые",A1 HD
+http://ott.dugatv.me/ch0286/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0285.png" group-title="Фильмовые",A2
+http://ott.dugatv.me/ch0285/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0283.png" group-title="Фильмовые",A2 HD
+http://ott.dugatv.me/ch0283/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch309.png" group-title="Фильмовые",Amedia Hit
+http://ott.dugatv.me/ch309/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch310.png" group-title="Фильмовые",Amedia Hit HD
+http://ott.dugatv.me/ch310/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0291.png" group-title="Фильмовые",Amedia Premium
+http://ott.dugatv.me/ch0291/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0289.png" group-title="Фильмовые",Amedia Premium HD
+http://ott.dugatv.me/ch0289/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch383.png" group-title="Фильмовые",BOLLYWOOD HD
+http://ott.dugatv.me/ch383/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch345.png" group-title="Фильмовые",BOLT
+http://ott.dugatv.me/ch345/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch343.png" group-title="Фильмовые",Bolt HD
+http://ott.dugatv.me/ch343/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch373.png" group-title="Фильмовые",FAN HD
+http://ott.dugatv.me/ch373/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0264.png" group-title="Фильмовые",FOX
+http://ott.dugatv.me/ch0264/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0262.png" group-title="Фильмовые",FOX HD
+http://ott.dugatv.me/ch0262/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0267.png" group-title="Фильмовые",FOX Life
+http://ott.dugatv.me/ch0267/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0265.png" group-title="Фильмовые",FOX Life HD
+http://ott.dugatv.me/ch0265/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0294.png" group-title="Фильмовые",Hollywood
+http://ott.dugatv.me/ch0294/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0293.png" group-title="Фильмовые",Hollywood HD
+http://ott.dugatv.me/ch0293/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch342.png" group-title="Фильмовые",Paramount Channel
+http://ott.dugatv.me/ch342/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch340.png" group-title="Фильмовые",Paramount Channel HD
+http://ott.dugatv.me/ch340/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00054.png" group-title="Фильмовые",Paramount Comedy
+http://ott.dugatv.me/ch00054/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00052.png" group-title="Фильмовые",Paramount Comedy HD
+http://ott.dugatv.me/ch00052/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0218.png" group-title="Фильмовые",Russian Extreme Ultra
+http://ott.dugatv.me/ch0218/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch371.png" group-title="Фильмовые",SHOT TV
+http://ott.dugatv.me/ch371/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch369.png" group-title="Фильмовые",Shot Tv HD
+http://ott.dugatv.me/ch369/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0270.png" group-title="Фильмовые",Sony Channel
+http://ott.dugatv.me/ch0270/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0268.png" group-title="Фильмовые",Sony Channel HD
+http://ott.dugatv.me/ch0268/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0271.png" group-title="Фильмовые",Sony Sci-Fi
+http://ott.dugatv.me/ch0271/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0279.png" group-title="Фильмовые",Sony Turbo
+http://ott.dugatv.me/ch0279/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch339.png" group-title="Фильмовые",Star Cinema
+http://ott.dugatv.me/ch339/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch337.png" group-title="Фильмовые",Star Cinema HD
+http://ott.dugatv.me/ch337/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch336.png" group-title="Фильмовые",Star Family
+http://ott.dugatv.me/ch336/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch334.png" group-title="Фильмовые",Star Family HD
+http://ott.dugatv.me/ch334/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch363.png" group-title="Фильмовые",TV XXI
+http://ott.dugatv.me/ch363/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch326.png" group-title="Фильмовые",TV1000
+http://ott.dugatv.me/ch326/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch329.png" group-title="Фильмовые",TV1000 Action
+http://ott.dugatv.me/ch329/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch327.png" group-title="Фильмовые",TV1000 Action HD
+http://ott.dugatv.me/ch327/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch34.png" group-title="Фильмовые",TV1000 HD
+http://ott.dugatv.me/ch34/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch250.png" group-title="Фильмовые",TV1000 Русское кино
+http://ott.dugatv.me/ch250/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch320.png" group-title="Фильмовые",TV1000 Русское кино HD
+http://ott.dugatv.me/ch320/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch331.png" group-title="Фильмовые",Ultra HD Cinema
+http://ott.dugatv.me/ch331/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch300.png" group-title="Фильмовые",ViP Comedy
+http://ott.dugatv.me/ch300/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0298.png" group-title="Фильмовые",ViP Comedy HD
+http://ott.dugatv.me/ch0298/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0259.png" group-title="Фильмовые",ViP Megahit
+http://ott.dugatv.me/ch0259/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0257.png" group-title="Фильмовые",ViP Megahit HD
+http://ott.dugatv.me/ch0257/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0297.png" group-title="Фильмовые",ViP Premiere
+http://ott.dugatv.me/ch0297/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0295.png" group-title="Фильмовые",ViP Premiere HD
+http://ott.dugatv.me/ch0295/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch362.png" group-title="Фильмовые",ViP Serial
+http://ott.dugatv.me/ch362/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch360.png" group-title="Фильмовые",VIP Serial HD
+http://ott.dugatv.me/ch360/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch333.png" group-title="Фильмовые",Zee TV
+http://ott.dugatv.me/ch333/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chnew01.png" group-title="Фильмовые",Блокбастер HD
+http://ott.dugatv.me/chnew01/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch365.png" group-title="Фильмовые",Дом Кино
+http://ott.dugatv.me/ch365/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch319.png" group-title="Фильмовые",Дом кино Премиум
+http://ott.dugatv.me/ch319/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch317.png" group-title="Фильмовые",Дом кино премиум HD
+http://ott.dugatv.me/ch317/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch388.png" group-title="Фильмовые",Еврокино
+http://ott.dugatv.me/ch388/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch364.png" group-title="Фильмовые",Иллюзион+
+http://ott.dugatv.me/ch364/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chnew02.png" group-title="Фильмовые",Камеди HD
+http://ott.dugatv.me/chnew02/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch654.png" group-title="Фильмовые",Кино UHD
+http://ott.dugatv.me/ch654/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0275.png" group-title="Фильмовые",Кино ТВ
+http://ott.dugatv.me/ch0275/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0273.png" group-title="Фильмовые",Кино ТВ HD
+http://ott.dugatv.me/ch0273/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0272.png" group-title="Фильмовые",Кинокомедия HD
+http://ott.dugatv.me/ch0272/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0276.png" group-title="Фильмовые",Киномикс
+http://ott.dugatv.me/ch0276/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chnew03.png" group-title="Фильмовые",Кинопоказ HD
+http://ott.dugatv.me/chnew03/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch304.png" group-title="Фильмовые",Кинопремьера
+http://ott.dugatv.me/ch304/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch303.png" group-title="Фильмовые",Кинопремьера HD
+http://ott.dugatv.me/ch303/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch307.png" group-title="Фильмовые",Киносвидание
+http://ott.dugatv.me/ch307/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0305.png" group-title="Фильмовые",Киносвидание HD
+http://ott.dugatv.me/ch0305/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0282.png" group-title="Фильмовые",Киносемья
+http://ott.dugatv.me/ch0282/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0280.png" group-title="Фильмовые",Киносемья HD
+http://ott.dugatv.me/ch0280/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch390.png" group-title="Фильмовые",Киносерия HD
+http://ott.dugatv.me/ch390/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch393.png" group-title="Фильмовые",Киноужас
+http://ott.dugatv.me/ch393/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch391.png" group-title="Фильмовые",Киноужас HD
+http://ott.dugatv.me/ch391/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch313.png" group-title="Фильмовые",Кинохит HD
+http://ott.dugatv.me/ch313/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch394.png" group-title="Фильмовые",Комедийное HD
+http://ott.dugatv.me/ch394/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch332.png" group-title="Фильмовые",Комедия
+http://ott.dugatv.me/ch332/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch366.png" group-title="Фильмовые",Любимое HD
+http://ott.dugatv.me/ch366/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch376.png" group-title="Фильмовые",Мир сериала
+http://ott.dugatv.me/ch376/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch323.png" group-title="Фильмовые",Мужское кино
+http://ott.dugatv.me/ch323/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch308.png" group-title="Фильмовые",Настоящее страшное ТВ
+http://ott.dugatv.me/ch308/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch386.png" group-title="Фильмовые",Наше Крутое HD
+http://ott.dugatv.me/ch386/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chnew04.png" group-title="Фильмовые",Наше Мужское HD
+http://ott.dugatv.me/chnew04/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch367.png" group-title="Фильмовые",Наше новое кино
+http://ott.dugatv.me/ch367/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch653.png" group-title="Фильмовые",НТВ Сериал
+http://ott.dugatv.me/ch653/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch652.png" group-title="Фильмовые",НТВ-Хит
+http://ott.dugatv.me/ch652/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch387.png" group-title="Фильмовые",Остросюжетное HD
+http://ott.dugatv.me/ch387/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch349.png" group-title="Фильмовые",Победа
+http://ott.dugatv.me/ch349/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch347.png" group-title="Фильмовые",Победа HD
+http://ott.dugatv.me/ch347/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch655.png" group-title="Фильмовые",Премиальное HD
+http://ott.dugatv.me/ch655/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chnew05.png" group-title="Фильмовые",Про любовь HD
+http://ott.dugatv.me/chnew05/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch368.png" group-title="Фильмовые",Ретро ТВ
+http://ott.dugatv.me/ch368/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch316.png" group-title="Фильмовые",Родное кино
+http://ott.dugatv.me/ch316/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0252.png" group-title="Фильмовые",Русский бестселлер
+http://ott.dugatv.me/ch0252/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0253.png" group-title="Фильмовые",Русский детектив
+http://ott.dugatv.me/ch0253/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch312.png" group-title="Фильмовые",Русский иллюзион
+http://ott.dugatv.me/ch312/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch298.png" group-title="Фильмовые",Русский роман
+http://ott.dugatv.me/ch298/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0250.png" group-title="Фильмовые",Русский роман HD
+http://ott.dugatv.me/ch0250/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch656.png" group-title="Фильмовые",Сериал UHD
+http://ott.dugatv.me/ch656/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch380.png" group-title="Фильмовые",Страшное HD
+http://ott.dugatv.me/ch380/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0278.png" group-title="Фильмовые",СТС Love
+http://ott.dugatv.me/ch0278/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0261.png" group-title="Фильмовые",Супер
+http://ott.dugatv.me/ch0261/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chnew06.png" group-title="Фильмовые",Хит HD
+http://ott.dugatv.me/chnew06/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00170.png" group-title="Спортивные",Eurosport 1
+http://ott.dugatv.me/ch00170/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00168.png" group-title="Спортивные",Eurosport 1 HD
+http://ott.dugatv.me/ch00168/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00173.png" group-title="Спортивные",Eurosport 2
+http://ott.dugatv.me/ch00173/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00171.png" group-title="Спортивные",Eurosport 2 HD
+http://ott.dugatv.me/ch00171/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch218.png" group-title="Спортивные",Extreme Sports
+http://ott.dugatv.me/ch218/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00197.png" group-title="Спортивные",M-1 Global
+http://ott.dugatv.me/ch00197/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua024.png" group-title="Спортивные",Setanta Sports 1 HD
+http://ott.dugatv.me/chua024/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua025.png" group-title="Спортивные",Setanta Sports 2 HD
+http://ott.dugatv.me/chua025/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua011.png" group-title="Спортивные",Setanta Sports Ukraine HD
+http://ott.dugatv.me/chua011/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chtr1.png" group-title="Спортивные",Tr1
+http://ott.dugatv.me/chtr1/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chtr2.png" group-title="Спортивные",Tr2
+http://ott.dugatv.me/chtr2/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chtr3.png" group-title="Спортивные",Tr3
+http://ott.dugatv.me/chtr3/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0206.png" group-title="Спортивные",UFC Тв HD
+http://ott.dugatv.me/ch0206/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch257.png" group-title="Спортивные",Viasat Sport
+http://ott.dugatv.me/ch257/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0201.png" group-title="Спортивные",Viasat Sport HD
+http://ott.dugatv.me/ch0201/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00178.png" group-title="Спортивные",Авто плюс
+http://ott.dugatv.me/ch00178/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00181.png" group-title="Спортивные",Авто24
+http://ott.dugatv.me/ch00181/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00179.png" group-title="Спортивные",АВТО24 HD
+http://ott.dugatv.me/ch00179/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0205.png" group-title="Спортивные",Драйв
+http://ott.dugatv.me/ch0205/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0200.png" group-title="Спортивные",КХЛ
+http://ott.dugatv.me/ch0200/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00198.png" group-title="Спортивные",КХЛ HD
+http://ott.dugatv.me/ch00198/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00184.png" group-title="Спортивные",Матч! Арена
+http://ott.dugatv.me/ch00184/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00182.png" group-title="Спортивные",Матч! Арена HD
+http://ott.dugatv.me/ch00182/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00177.png" group-title="Спортивные",Матч! Боец
+http://ott.dugatv.me/ch00177/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00190.png" group-title="Спортивные",Матч! Игра
+http://ott.dugatv.me/ch00190/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00188.png" group-title="Спортивные",Матч! Игра HD
+http://ott.dugatv.me/ch00188/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00176.png" group-title="Спортивные",Матч! Премьер
+http://ott.dugatv.me/ch00176/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00174.png" group-title="Спортивные",Матч! Премьер HD
+http://ott.dugatv.me/ch00174/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch278.png" group-title="Спортивные",Матч! Страна
+http://ott.dugatv.me/ch278/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0008.png" group-title="Спортивные",Матч! ТВ
+http://ott.dugatv.me/ch0008/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0006.png" group-title="Спортивные",Матч! ТВ HD
+http://ott.dugatv.me/ch0006/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00191.png" group-title="Спортивные",Матч! Футбол 1 HD
+http://ott.dugatv.me/ch00191/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00196.png" group-title="Спортивные",Матч! Футбол 2
+http://ott.dugatv.me/ch00196/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00194.png" group-title="Спортивные",Матч! Футбол 2 HD
+http://ott.dugatv.me/ch00194/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0216.png" group-title="Спортивные",МИР БАСКЕТБОЛА
+http://ott.dugatv.me/ch0216/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00187.png" group-title="Спортивные",Моторспорт ТВ
+http://ott.dugatv.me/ch00187/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0204.png" group-title="Спортивные",Русский экстрим
+http://ott.dugatv.me/ch0204/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch0212.png" group-title="Спортивные",Футбол HD
+http://ott.dugatv.me/ch0212/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch201.png" group-title="Детские",BabyTV
+http://ott.dugatv.me/ch201/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch442.png" group-title="Детские",BOOMERANG
+http://ott.dugatv.me/ch442/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch434.png" group-title="Детские",Cartoon Network
+http://ott.dugatv.me/ch434/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch449.png" group-title="Детские",Da Vinci Learning
+http://ott.dugatv.me/ch449/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch446.png" group-title="Детские",Disney Channel
+http://ott.dugatv.me/ch446/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch439.png" group-title="Детские",Gulli Girl
+http://ott.dugatv.me/ch439/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch436.png" group-title="Детские",JIMJAM
+http://ott.dugatv.me/ch436/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch433.png" group-title="Детские",Nick Jr
+http://ott.dugatv.me/ch433/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch431.png" group-title="Детские",Nickelodeon
+http://ott.dugatv.me/ch431/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch432.png" group-title="Детские",Nickelodeon HD
+http://ott.dugatv.me/ch432/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch430.png" group-title="Детские",TIJI
+http://ott.dugatv.me/ch430/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch448.png" group-title="Детские",В Гостях у сказки
+http://ott.dugatv.me/ch448/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch437.png" group-title="Детские",Детский
+http://ott.dugatv.me/ch437/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch447.png" group-title="Детские",Детский мир
+http://ott.dugatv.me/ch447/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch450.png" group-title="Детские",МАЛЫШ ТВ
+http://ott.dugatv.me/ch450/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch438.png" group-title="Детские",МУЛЬТ
+http://ott.dugatv.me/ch438/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch445.png" group-title="Детские",Мульт HD
+http://ott.dugatv.me/ch445/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch451.png" group-title="Детские",Мультимания
+http://ott.dugatv.me/ch451/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch444.png" group-title="Детские",Мультимузыка
+http://ott.dugatv.me/ch444/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch440.png" group-title="Детские",О!
+http://ott.dugatv.me/ch440/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch443.png" group-title="Детские",Радость моя
+http://ott.dugatv.me/ch443/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chnew10.png" group-title="Детские",Смайлик HD
+http://ott.dugatv.me/chnew10/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch452.png" group-title="Детские",СТС Kids
+http://ott.dugatv.me/ch452/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch499.png" group-title="Музыкальные",AIVA HD
+http://ott.dugatv.me/ch499/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch485.png" group-title="Музыкальные",Bridge TV Classic
+http://ott.dugatv.me/ch485/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch498.png" group-title="Музыкальные",Bridge TV Hits
+http://ott.dugatv.me/ch498/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch484.png" group-title="Музыкальные",Bridge TV Русский Хит
+http://ott.dugatv.me/ch484/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chnew08.png" group-title="Музыкальные",BRIDGE TV Шлягер
+http://ott.dugatv.me/chnew08/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch487.png" group-title="Музыкальные",Bridge-Tv
+http://ott.dugatv.me/ch487/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch491.png" group-title="Музыкальные",Clubbing TV HD
+http://ott.dugatv.me/ch491/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch486.png" group-title="Музыкальные",Europa Plus TV HD
+http://ott.dugatv.me/ch486/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch493.png" group-title="Музыкальные",MCM Top
+http://ott.dugatv.me/ch493/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch488.png" group-title="Музыкальные",Mezzo
+http://ott.dugatv.me/ch488/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch489.png" group-title="Музыкальные",Mezzo Live HD
+http://ott.dugatv.me/ch489/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00055.png" group-title="Музыкальные",MTV HD
+http://ott.dugatv.me/ch00055/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch495.png" group-title="Музыкальные",MTV Hits
+http://ott.dugatv.me/ch495/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch501.png" group-title="Музыкальные",MTV Live HD
+http://ott.dugatv.me/ch501/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch496.png" group-title="Музыкальные",MTV Rock
+http://ott.dugatv.me/ch496/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch480.png" group-title="Музыкальные",RU TV
+http://ott.dugatv.me/ch480/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch481.png" group-title="Музыкальные",RU TV HD
+http://ott.dugatv.me/ch481/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch490.png" group-title="Музыкальные",Shant music HD
+http://ott.dugatv.me/ch490/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch497.png" group-title="Музыкальные",VH1 Classic
+http://ott.dugatv.me/ch497/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch492.png" group-title="Музыкальные",VH1 European
+http://ott.dugatv.me/ch492/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch482.png" group-title="Музыкальные",Ля-минор
+http://ott.dugatv.me/ch482/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00029.png" group-title="Музыкальные",МУЗ ТВ
+http://ott.dugatv.me/ch00029/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch500.png" group-title="Музыкальные",Музыка Первого
+http://ott.dugatv.me/ch500/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch444.png" group-title="Музыкальные",Мультимузыка
+http://ott.dugatv.me/ch444/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00109.png" group-title="Музыкальные",О2!
+http://ott.dugatv.me/ch00109/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch00107.png" group-title="Музыкальные",О2! HD
+http://ott.dugatv.me/ch00107/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch483.png" group-title="Музыкальные",ТНТ Music
+http://ott.dugatv.me/ch483/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch559.png" group-title="Информационные",360 НОВОСТИ HD
+http://ott.dugatv.me/ch559/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch557.png" group-title="Информационные",BBC World News
+http://ott.dugatv.me/ch557/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch558.png" group-title="Информационные",CBS Reality
+http://ott.dugatv.me/ch558/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch554.png" group-title="Информационные",CNN International
+http://ott.dugatv.me/ch554/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch552.png" group-title="Информационные",France 24 HD
+http://ott.dugatv.me/ch552/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch553.png" group-title="Информационные",Russia Today
+http://ott.dugatv.me/ch553/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch550.png" group-title="Информационные",Евроновости
+http://ott.dugatv.me/ch550/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch555.png" group-title="Информационные",Мир 24
+http://ott.dugatv.me/ch555/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch560.png" group-title="Информационные",Первый Российский Национальный канал HD
+http://ott.dugatv.me/ch560/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch551.png" group-title="Информационные",РБК
+http://ott.dugatv.me/ch551/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua001.png" group-title="Украина",1+1
+http://ott.dugatv.me/chua001/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua664.png" group-title="Украина",1+1 HD
+http://ott.dugatv.me/chua664/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua004.png" group-title="Украина",2+2
+http://ott.dugatv.me/chua004/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua27.png" group-title="Украина",2+2 HD
+http://ott.dugatv.me/chua27/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua005.png" group-title="Украина",24 Канал
+http://ott.dugatv.me/chua005/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua008.png" group-title="Украина",5 Канал Украина
+http://ott.dugatv.me/chua008/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua010.png" group-title="Украина",ICTV
+http://ott.dugatv.me/chua010/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua012.png" group-title="Украина",SPORT 1
+http://ott.dugatv.me/chua012/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua015.png" group-title="Украина",XSPORT
+http://ott.dugatv.me/chua015/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua016.png" group-title="Украина",xsport HD
+http://ott.dugatv.me/chua016/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua007.png" group-title="Украина",Кieв
+http://ott.dugatv.me/chua007/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua017.png" group-title="Украина",Квартал ТВ
+http://ott.dugatv.me/chua017/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch658.png" group-title="Украина",Новый Канал
+http://ott.dugatv.me/ch658/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua26.png" group-title="Украина",Новый канал HD
+http://ott.dugatv.me/chua26/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua665.png" group-title="Украина",Оце
+http://ott.dugatv.me/chua665/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua666.png" group-title="Украина",Оце HD
+http://ott.dugatv.me/chua666/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua019.png" group-title="Украина",Перший нацiональний
+http://ott.dugatv.me/chua019/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua662.png" group-title="Украина",СТБ
+http://ott.dugatv.me/chua662/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua663.png" group-title="Украина",СТБ HD
+http://ott.dugatv.me/chua663/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua021.png" group-title="Украина",Футбол 1 HD
+http://ott.dugatv.me/chua021/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua023.png" group-title="Украина",Футбол 2 HD
+http://ott.dugatv.me/chua023/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chua022.png" group-title="Украина",Футбол 3 HD
+http://ott.dugatv.me/chua022/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chbel07.png" group-title="Беларусь",English club
+http://ott.dugatv.me/chbel07/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chbel06.png" group-title="Беларусь",Kvartal TV
+http://ott.dugatv.me/chbel06/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chbel02.png" group-title="Беларусь",Беларусь 24
+http://ott.dugatv.me/chbel02/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch657.png" group-title="Беларусь",Беларусь 5 HD
+http://ott.dugatv.me/ch657/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chbel03.png" group-title="Беларусь",БелРос (ТРО)
+http://ott.dugatv.me/chbel03/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt001.png" group-title="Литва",Balticum Auksinis
+http://ott.dugatv.me/chlt001/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt002.png" group-title="Литва",Btv
+http://ott.dugatv.me/chlt002/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt003.png" group-title="Литва",Btv HD
+http://ott.dugatv.me/chlt003/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch26lt.png" group-title="Литва",DelfiTV HD
+http://ott.dugatv.me/ch26lt/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt26.png" group-title="Литва",Dzukijos
+http://ott.dugatv.me/chlt26/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt004.png" group-title="Литва",Kidzone
+http://ott.dugatv.me/chlt004/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt005.png" group-title="Литва",Kidzone HD+
+http://ott.dugatv.me/chlt005/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt12.png" group-title="Литва",Lietuvos Rytas TV
+http://ott.dugatv.me/chlt12/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt13.png" group-title="Литва",Lietuvos Rytas TV HD
+http://ott.dugatv.me/chlt13/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch21lt.png" group-title="Литва",Liuks
+http://ott.dugatv.me/ch21lt/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt006.png" group-title="Литва",Lnk
+http://ott.dugatv.me/chlt006/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt007.png" group-title="Литва",Lnk HD
+http://ott.dugatv.me/chlt007/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt008.png" group-title="Литва",Lrt
+http://ott.dugatv.me/chlt008/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt011.png" group-title="Литва",Lrt HD
+http://ott.dugatv.me/chlt011/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt009.png" group-title="Литва",LRT Plius
+http://ott.dugatv.me/chlt009/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt010.png" group-title="Литва",LRT Plius HD
+http://ott.dugatv.me/chlt010/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt14.png" group-title="Литва",Sport 1 LT
+http://ott.dugatv.me/chlt14/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt15.png" group-title="Литва",Sport 1 LT HD
+http://ott.dugatv.me/chlt15/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch15lt.png" group-title="Литва",TV1 HD
+http://ott.dugatv.me/ch15lt/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt24.png" group-title="Литва",TV3 Film
+http://ott.dugatv.me/chlt24/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt25.png" group-title="Литва",TV3 Film HD
+http://ott.dugatv.me/chlt25/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt18.png" group-title="Литва",TV3 Lietuva
+http://ott.dugatv.me/chlt18/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt19.png" group-title="Литва",TV3 Lietuva HD
+http://ott.dugatv.me/chlt19/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt16.png" group-title="Литва",TV6 Lietuva
+http://ott.dugatv.me/chlt16/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt17.png" group-title="Литва",TV6 Lietuva HD
+http://ott.dugatv.me/chlt17/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt20.png" group-title="Литва",TV8 Lietuva
+http://ott.dugatv.me/chlt20/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt21.png" group-title="Литва",TV8 Lietuva HD
+http://ott.dugatv.me/chlt21/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlt23.png" group-title="Литва",TVPlay Sports HD
+http://ott.dugatv.me/chlt23/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlv005.png" group-title="Латвия",3+
+http://ott.dugatv.me/chlv005/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlv012.png" group-title="Латвия",3sports3 HD
+http://ott.dugatv.me/chlv012/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlv002.png" group-title="Латвия",LTV1
+http://ott.dugatv.me/chlv002/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlv008.png" group-title="Латвия",LTV7
+http://ott.dugatv.me/chlv008/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ch017.png" group-title="Латвия",Re TV
+http://ott.dugatv.me/ch017/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlv018.png" group-title="Латвия",STV
+http://ott.dugatv.me/chlv018/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlv017.png" group-title="Латвия",TV24
+http://ott.dugatv.me/chlv017/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlv011.png" group-title="Латвия",TV3
+http://ott.dugatv.me/chlv011/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlv003.png" group-title="Латвия",TV3 HD
+http://ott.dugatv.me/chlv003/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlv001.png" group-title="Латвия",TV3 Life
+http://ott.dugatv.me/chlv001/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlv016.png" group-title="Латвия",TV3 Life HD
+http://ott.dugatv.me/chlv016/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlv014.png" group-title="Латвия",TV3 Mini HD
+http://ott.dugatv.me/chlv014/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlv010.png" group-title="Латвия",TV6
+http://ott.dugatv.me/chlv010/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chlv013.png" group-title="Латвия",TV6 HD
+http://ott.dugatv.me/chlv013/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ches11.png" group-title="Эстония",Duo3 HD
+http://ott.dugatv.me/ches11/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ches12.png" group-title="Эстония",Duo6 HD
+http://ott.dugatv.me/ches12/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ches03.png" group-title="Эстония",ETV
+http://ott.dugatv.me/ches03/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ches09.png" group-title="Эстония",ETV HD
+http://ott.dugatv.me/ches09/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ches10.png" group-title="Эстония",ETV+ HD
+http://ott.dugatv.me/ches10/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ches04.png" group-title="Эстония",ETV2
+http://ott.dugatv.me/ches04/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ches08.png" group-title="Эстония",ETV2 HD
+http://ott.dugatv.me/ches08/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ches05.png" group-title="Эстония",Kanal 2
+http://ott.dugatv.me/ches05/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ches13.png" group-title="Эстония",Kanal 2 HD
+http://ott.dugatv.me/ches13/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ches01.png" group-title="Эстония",TV3
+http://ott.dugatv.me/ches01/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ches02.png" group-title="Эстония",TV6
+http://ott.dugatv.me/ches02/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ches07.png" group-title="Эстония",TVPLAY SPORTS HD
+http://ott.dugatv.me/ches07/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/ches06.png" group-title="Эстония",TVPLAY SPORTS PLUS HD
+http://ott.dugatv.me/ches06/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd12.png" group-title="Молдова",10 TV HD
+http://ott.dugatv.me/chmd12/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd19.png" group-title="Молдова",5 Canal
+http://ott.dugatv.me/chmd19/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd18.png" group-title="Молдова",Accent TV
+http://ott.dugatv.me/chmd18/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd20.png" group-title="Молдова",Agro
+http://ott.dugatv.me/chmd20/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd38.png" group-title="Молдова",BTV HD
+http://ott.dugatv.me/chmd38/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd13.png" group-title="Молдова",Busuioc
+http://ott.dugatv.me/chmd13/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd06.png" group-title="Молдова",Canal 2 HD
+http://ott.dugatv.me/chmd06/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd07.png" group-title="Молдова",Canal 3 HD
+http://ott.dugatv.me/chmd07/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd29.png" group-title="Молдова",Canal D
+http://ott.dugatv.me/chmd29/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd15.png" group-title="Молдова",Drokia TV
+http://ott.dugatv.me/chmd15/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd30.png" group-title="Молдова",Gurinel HD
+http://ott.dugatv.me/chmd30/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd26.png" group-title="Молдова",Jurnal TV HD
+http://ott.dugatv.me/chmd26/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd39.png" group-title="Молдова",Kuhnea
+http://ott.dugatv.me/chmd39/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd14.png" group-title="Молдова",Media TV
+http://ott.dugatv.me/chmd14/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd23.png" group-title="Молдова",Mega
+http://ott.dugatv.me/chmd23/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd02.png" group-title="Молдова",Moldova 1 HD
+http://ott.dugatv.me/chmd02/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd03.png" group-title="Молдова",Moldova 2 HD
+http://ott.dugatv.me/chmd03/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd10.png" group-title="Молдова",Mult HD
+http://ott.dugatv.me/chmd10/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd31.png" group-title="Молдова",N4
+http://ott.dugatv.me/chmd31/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd34.png" group-title="Молдова",Noroc
+http://ott.dugatv.me/chmd34/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd33.png" group-title="Молдова",Noroc HD
+http://ott.dugatv.me/chmd33/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd09.png" group-title="Молдова",NTS HD
+http://ott.dugatv.me/chmd09/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd21.png" group-title="Молдова",NTV Moldova
+http://ott.dugatv.me/chmd21/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd25.png" group-title="Молдова",Orhei TV HD
+http://ott.dugatv.me/chmd25/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd04.png" group-title="Молдова",Prime HD
+http://ott.dugatv.me/chmd04/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd11.png" group-title="Молдова",Primul HD
+http://ott.dugatv.me/chmd11/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd22.png" group-title="Молдова",Pro TV HD
+http://ott.dugatv.me/chmd22/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd08.png" group-title="Молдова",Publica HD
+http://ott.dugatv.me/chmd08/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd35.png" group-title="Молдова",Ren TV HD
+http://ott.dugatv.me/chmd35/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd01.png" group-title="Молдова",RTR HD
+http://ott.dugatv.me/chmd01/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd27.png" group-title="Молдова",TNT Exclusive
+http://ott.dugatv.me/chmd27/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd24.png" group-title="Молдова",TV HD
+http://ott.dugatv.me/chmd24/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd28.png" group-title="Молдова",TV8
+http://ott.dugatv.me/chmd28/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd16.png" group-title="Молдова",TVC21
+http://ott.dugatv.me/chmd16/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd37.png" group-title="Молдова",TVR
+http://ott.dugatv.me/chmd37/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd17.png" group-title="Молдова",Vocea Basarabiei HD
+http://ott.dugatv.me/chmd17/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chmd36.png" group-title="Молдова",Zona M
+http://ott.dugatv.me/chmd36/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/cheng01.png" group-title="Другие",BBC 1 HD
+http://ott.dugatv.me/cheng01/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1 tvg-logo="http://duga.tv/wp-content/uploads/icons/chisr01.png" group-title="Другие",Channel 9
+http://ott.dugatv.me/chisr01/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
